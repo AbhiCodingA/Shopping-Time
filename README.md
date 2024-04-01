@@ -28,9 +28,8 @@ Attribute Selection: To maintain accuracy and prevent errors, you won't be able 
 Currency Selection: The customers come from diverse locations around the world. That's why the website offers the flexibility to change the store currency to various options such as EUR, GBP, AUD, JPY, and more. Shop in the currency that suits you best.
 Secure and User-Friendly Checkout
 Multi-Step Checkout: The website features a multi-step checkout process to guide you through the purchase smoothly and securely. Each step is designed with user experience in mind.
-
 Form Validations: To prevent errors and ensure accurate order information, the checkout page includes form validations. This guarantees that the necessary details are correctly entered, helping to streamline shopping experience.
 
  # Goals I achieved
-Practice React Class components.
-Build logic to choose attributes and add items to the cart
+ 1.Practice React Class components.
+ 2.Build logic to choose attributes and add items to the cart
